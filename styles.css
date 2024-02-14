@@ -28,3 +28,7 @@
   #no-button {
     position: absolute;
   }
+  
+img#cartoon-gif {
+  width: 220px;
+}
